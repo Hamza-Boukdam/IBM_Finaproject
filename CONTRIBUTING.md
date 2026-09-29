@@ -7,8 +7,8 @@ All contributions, bug reports, bug fixes, documentation improvements, enhanceme
 1. Fork the repository.
 2. Create a new branch for your changes.
 3. Make your changes.
-4. Commit your changes with a clear message.
+4. Commit your changes.
 5. Push your branch to your fork.
 6. Open a pull request.
 
-Thank you for contributing to this project!
+Thank you for contributing!
